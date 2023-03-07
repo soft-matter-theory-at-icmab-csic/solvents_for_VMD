@@ -1,0 +1,36 @@
+ATOMS
+MASS  -1  HGA2       1.00800 ! alphatic proton, CH2
+MASS  -1  CG3C52    12.01100 ! 5-mem ring aliphatic CH2 (proline CB/CG/CD, THF, deoxyribose)
+MASS  -1  OG3C51    15.99940 ! 5-mem furanose ring oxygen (ether)
+
+RESI THF       0.000 ! param penalty=   0.000 ; charge penalty=   0.000
+GROUP            ! CHARGE   CH_PENALTY
+ATOM C      CG3C52 -0.178 !    0.000
+ATOM C2     CG3C52  0.018 !    0.000
+ATOM O      OG3C51 -0.400 !    0.000
+ATOM C3     CG3C52  0.018 !    0.000
+ATOM C4     CG3C52 -0.178 !    0.000
+ATOM H      HGA2    0.090 !    0.000
+ATOM H2     HGA2    0.090 !    0.000
+ATOM H3     HGA2    0.090 !    0.000
+ATOM H4     HGA2    0.090 !    0.000
+ATOM H5     HGA2    0.090 !    0.000
+ATOM H6     HGA2    0.090 !    0.000
+ATOM H7     HGA2    0.090 !    0.000
+ATOM H8     HGA2    0.090 !    0.000
+               ! Bond order
+BOND H7   C4   ! 1
+BOND H2   C    ! 1
+BOND H3   C2   ! 1
+BOND H5   C3   ! 1
+BOND O    C2   ! 1
+BOND O    C3   ! 1
+BOND C4   C    ! 1
+BOND C4   C3   ! 1
+BOND C4   H8   ! 1
+BOND C    C2   ! 1
+BOND C    H    ! 1
+BOND C2   H4   ! 1
+BOND C3   H6   ! 1
+
+END

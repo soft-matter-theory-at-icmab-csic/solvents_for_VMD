@@ -1,2 +1,2 @@
 
-CHARMM General Force Field compatible with the acetone topology provided in this repository
+CHARMM General Force Field CGenFF36 compatible with the acetone topology provided in this repository

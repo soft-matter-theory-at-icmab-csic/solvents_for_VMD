@@ -8,6 +8,6 @@ To be used with VMD solvate plugin as nonstandard solvent you need the following
 
 * A key selection which will occur once in each solvent residue: name N
 
-* The side length of the box (should be taken from the equilibration's periodic cell: 19.9318459482
+* The side length of the box (taken from the equilibration's periodic cell): 19.9318459482
 
 

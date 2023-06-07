@@ -10,4 +10,4 @@ To be used with VMD solvate plugin as nonstandard solvent you need the following
 
 * The side length of the box (taken from the equilibration's periodic cell): 19.9318459482
 
-
+We also include the CHARMM CGenFF force field files for performing MD simulations with NAMD (FF update July 22)

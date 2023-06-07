@@ -1,1 +1,1 @@
-ForceField file for use in NAMD simulation, based on CAHRMM CgenFF (July 22)
+ForceField file for use in NAMD simulation, based on CHARMM General Force Field (CGenFF)  (July 22)
